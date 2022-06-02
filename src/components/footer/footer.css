@@ -1,0 +1,13 @@
+.footer{
+    background: #040320;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Kaushan Script';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    color: #FFFFFF;
+}

@@ -1,0 +1,49 @@
+.createTask{
+    flex: .7;
+}
+
+.createTask .container{
+    width: 657px;
+    height: 337px;
+    margin: 106px 0 0 58px;
+    background: #FFFFFF;
+    border-radius: 6px;
+}
+
+.heading1{
+    font-family: 'Kurale';
+    font-size: 40px;
+    line-height: 59px;
+    color: #000000;
+    margin: 20px 0 0 50px;
+}
+
+.createform input{
+    width: 308px;
+    height: 36px;
+    background: #FCF6FF;
+    border-radius: 5px 0px 0px 5px;
+    border: none;
+    outline: none;
+    padding: 4px 0 0 17px;
+    font-family: 'Kurale';
+    font-size: 18px;
+    line-height: 27px;
+    color: #000000;
+    margin: 45px 0 0 50px;
+}
+
+.createBtn{
+    width: 46px;
+    height: 36px;
+    background: #040320;
+    border-radius: 0px 5px 5px 0px;
+    cursor: pointer;
+}
+
+.taskName{
+    font-family: 'Kurale';
+    font-size: 20px;
+    line-height: 30px;
+    color: #000000;
+}

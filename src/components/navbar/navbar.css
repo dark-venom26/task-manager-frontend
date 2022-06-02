@@ -1,0 +1,32 @@
+.navbar{
+    background: #040320;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    padding: 0 128px;
+}
+
+.logo{
+    font-family: 'Kolker Brush';
+    font-size: 40px;
+    line-height: 44px;
+    color: #FFFFFF;
+    flex: 1;
+}
+
+.links{
+    display: flex;
+    column-gap: 34px;
+}
+
+.links li{
+    list-style: none;
+}
+
+.links li a{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-family: 'Kaushan Script';
+    font-size: 20px;
+    line-height: 29px;
+}
